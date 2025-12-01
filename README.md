@@ -49,9 +49,7 @@ Beyond development for clients and personal projects, I am the founder of two in
 
 I'm always open to discussing new projects, collaboration opportunities, or general tech talk.
 
-| Platform | Handle/Link |
-
-| **GitHub** | (You are here) |
-| **Email** | `vortex@infusermc.com` |
+| **GitHub**  (You are here) 
+| **Email**  `vortex@infusermc.com` 
 
 > ⭐️ **Fun Fact:** When I'm not coding, I enjoy **playing football**.
