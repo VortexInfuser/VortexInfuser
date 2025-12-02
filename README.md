@@ -33,7 +33,7 @@ Beyond development for clients and personal projects, I am the founder of two in
 
 ### ☕ Infuser
 
-> Infuser focuses on **[briefly describe what Infuser does, e.g., "creating modern, lightweight web applications and SaaS solutions"].**
+> Infuser focuses on **[Minecraft server experiences that everyone on any device can play, using bliss smp and having multiple gamemode.].**
 >
 > *https://infusermc.com*
 
